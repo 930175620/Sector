@@ -1,0 +1,27 @@
+SECTOR:Hohhot CTA:0:25600
+OWNER:HHCT:ZBPE
+BORDER:Hohhot Area
+
+SECTOR:Beijing CTA (Hohhot high):25600:41100
+OWNER:ZBPE
+BORDER:Hohhot Area
+
+SECTOR:Beijing CTA (Beijing):0:41100
+OWNER:AACT:ZBPE
+BORDER:Beijing Area
+
+SECTOR:Taiyuan CTA:0:25600
+OWNER:YNCT:ZBPE
+BORDER:Taiyuan Area
+
+SECTOR:Beijing CTA (Taiyuan high):25600:41100
+OWNER:ZBPE
+BORDER:Taiyuan Area
+
+SECTOR:Beijing CTA (Jinan high):25600:41100
+OWNER:ZBPE
+BORDER:Jinan Area
+
+SECTOR:Beijing CTA (Zhengzhou high):25600:41100
+OWNER:ZBPE
+BORDER:Zhengzhou Area

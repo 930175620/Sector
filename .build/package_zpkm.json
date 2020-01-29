@@ -1,0 +1,78 @@
+{
+  "generalASRs": [
+    {
+      "template": "Eurocat-X ZPKM"
+    }
+  ],
+  "groundASRs": [
+    {
+      "template": "ZUCK",
+      "airport": "ZUCK"
+    },
+    {
+      "template": "ZUUU",
+      "airport": "ZUUU"
+    },
+    {
+      "template": "ZPPP",
+      "airport": "ZPPP"
+    },
+    {
+      "template": "ZUGY",
+      "airport": "ZUGY"
+    },
+    {
+      "template": "ZPLJ",
+      "airport": "ZPLJ"
+    },
+    {
+      "template": "ZULS",
+      "airport": "ZULS"
+    }
+  ],
+  "profiles": [
+    {
+      "name": "Eurocat-X",
+      "stockGroup": "ecx-standard",
+      "asrs": [
+        "Eurocat-X ZPKM",
+        "ZUCK",
+        "ZUUU",
+        "ZPPP",
+        "ZUGY",
+        "ZPLJ",
+        "ZULS"
+      ]
+    },
+    {
+      "name": "ZUCK SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZUCK"]
+    },
+    {
+      "name": "ZUUU SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZUUU"]
+    },
+    {
+      "name": "ZPPP SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZPPP"]
+    },
+    {
+      "name": "ZUGY SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZUGY"]
+    },
+    {
+      "name": "ZPLJ SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZPLJ"]
+    },
+    {
+      "name": "ZULS SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZULS"]
+    }
+  ]
+}

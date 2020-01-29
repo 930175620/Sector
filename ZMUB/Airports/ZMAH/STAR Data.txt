@@ -1,0 +1,4 @@
+;Generated begins
+STAR:ZMAH:14:NULL:ZMAH
+STAR:ZMAH:32:NULL:ZMAH
+;Generated ends

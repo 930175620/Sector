@@ -1,0 +1,25 @@
+{
+  "generalASRs": [
+    {
+      "template": "Eurocat-X ZWUQ"
+    }
+  ],
+  "groundASRs": [
+    {
+      "template": "ZWWW",
+      "airport": "ZWWW"
+    }
+  ],
+  "profiles": [
+    {
+      "name": "Eurocat-X",
+      "stockGroup": "ecx-standard",
+      "asrs": ["Eurocat-X ZWUQ", "ZWWW"]
+    },
+    {
+      "name": "ZWWW SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZWWW"]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+;Generated begins
+STAR:ZMMG:18:NULL:ZMMG
+STAR:ZMMG:36:NULL:ZMMG
+;Generated ends

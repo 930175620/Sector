@@ -1,0 +1,43 @@
+{
+  "generalASRs": [
+    {
+      "template": "Eurocat-X ZYSH"
+    }
+  ],
+  "groundASRs": [
+    {
+      "template": "ZYTL",
+      "airport": "ZYTL"
+    },
+    {
+      "template": "ZYCC",
+      "airport": "ZYCC"
+    },
+    {
+      "template": "ZYMD",
+      "airport": "ZYMD"
+    }
+  ],
+  "profiles": [
+    {
+      "name": "Eurocat-X",
+      "stockGroup": "ecx-standard",
+      "asrs": ["Eurocat-X ZYSH", "ZYTL", "ZYCC", "ZYMD"]
+    },
+    {
+      "name": "ZYTL SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZYTL"]
+    },
+    {
+      "name": "ZYCC SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZYCC"]
+    },
+    {
+      "name": "ZYMD SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZYMD"]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+name: Pull Request Review
+
+on: pull_request
+
+jobs:
+  pr-review-job:
+    runs-on: ubuntu-18.04
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v1
+    - name: Build sectors
+      uses: VATPRC-Sector/sector-build-engine-action@master
+      with:
+        repo-username: ${{ secrets.username }}
+        repo-token: ${{ secrets.token }}
+        repo-tag: b1
+        build-args: ./ ${{ github.ref }} ${{ github.sha }}
+    - name: Upload ZBPE package
+      uses: actions/upload-artifact@v1
+      with:
+        name: ZBPE-test
+        path: ./.build/artifact/ZBPE FIR VATPRC/
+    - name: Upload ZBPE package
+      uses: actions/upload-artifact@v1
+      with:
+        name: ZGZU-test
+        path: ./.build/artifact/ZGZU FIR VATPRC/
+    - name: Upload ZHWH package
+      uses: actions/upload-artifact@v1
+      with:
+        name: ZHWH-test
+        path: ./.build/artifact/ZHWH FIR VATPRC/
+    - name: Upload ZJSA package
+      uses: actions/upload-artifact@v1
+      with:
+        name: ZJSA-test
+        path: ./.build/artifact/ZJSA FIR VATPRC/
+    - name: Upload ZLHW package
+      uses: actions/upload-artifact@v1
+      with:
+        name: ZLHW-test
+        path: ./.build/artifact/ZLHW FIR VATPRC/
+    - name: Upload ZMUB package
+      uses: actions/upload-artifact@v1
+      with:
+        name: ZMUB-test
+        path: ./.build/artifact/ZMUB FIR VATPRC/
+    - name: Upload ZPKM package
+      uses: actions/upload-artifact@v1
+      with:
+        name: ZPKM-test
+        path: ./.build/artifact/ZPKM FIR VATPRC/
+    - name: Upload ZSHA package
+      uses: actions/upload-artifact@v1
+      with:
+        name: ZSHA-test
+        path: ./.build/artifact/ZSHA FIR VATPRC/
+    - name: Upload ZWUQ package
+      uses: actions/upload-artifact@v1
+      with:
+        name: ZWUQ-test
+        path: ./.build/artifact/ZWUQ FIR VATPRC/
+    - name: Upload ZYSH package
+      uses: actions/upload-artifact@v1
+      with:
+        name: ZYSH-test
+        path: ./.build/artifact/ZYSH FIR VATPRC/

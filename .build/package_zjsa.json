@@ -1,0 +1,34 @@
+{
+  "generalASRs": [
+    {
+      "template": "Eurocat-X ZJSA"
+    }
+  ],
+  "groundASRs": [
+    {
+      "template": "ZJHK",
+      "airport": "ZJHK"
+    },
+    {
+      "template": "ZJSY",
+      "airport": "ZJSY"
+    }
+  ],
+  "profiles": [
+    {
+      "name": "Eurocat-X",
+      "stockGroup": "ecx-standard",
+      "asrs": ["Eurocat-X ZJSA", "ZJHK", "ZJSY"]
+    },
+    {
+      "name": "ZJHK SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZJHK"]
+    },
+    {
+      "name": "ZJSY SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZJSY"]
+    }
+  ]
+}

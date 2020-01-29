@@ -1,0 +1,4 @@
+;Generated begins
+STAR:ZMUG:13:NULL:ZMUG
+STAR:ZMUG:31:NULL:ZMUG
+;Generated ends

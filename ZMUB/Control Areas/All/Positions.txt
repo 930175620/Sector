@@ -1,0 +1,1 @@
+ZMUB_CTR:Ulaanbaatar Control:126.000:ZMUB:-:ZMUB:CTR:-:-:5060:5070

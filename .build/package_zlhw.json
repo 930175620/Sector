@@ -1,0 +1,15 @@
+{
+  "generalASRs": [
+    {
+      "template": "Eurocat-X ZLHW"
+    }
+  ],
+  "groundASRs": [],
+  "profiles": [
+    {
+      "name": "Eurocat-X",
+      "stockGroup": "ecx-standard",
+      "asrs": ["Eurocat-X ZLHW"]
+    }
+  ]
+}

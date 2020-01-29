@@ -1,0 +1,10 @@
+#define smrZBAABackground 5379082
+#define smrZBAASurface 5263440
+#define smrZBAAGrass 6257742
+#define smrZBAATerminalEx 8026746
+#define smrZBAAArrow 60395
+#define smrZBAATerminal 1848432
+#define smrZBAATaxi 4227200
+#define smrZBAARunway 0
+#define smrZBAATaxiwayLabel 642252
+#define smrZBAAStandLabel 11842740

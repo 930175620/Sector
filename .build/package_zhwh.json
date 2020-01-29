@@ -1,0 +1,25 @@
+{
+  "generalASRs": [
+    {
+      "template": "Eurocat-X ZHWH"
+    }
+  ],
+  "groundASRs": [
+    {
+      "template": "ZHHH",
+      "airport": "ZHHH"
+    }
+  ],
+  "profiles": [
+    {
+      "name": "Eurocat-X",
+      "stockGroup": "ecx-standard",
+      "asrs": ["Eurocat-X ZHWH", "ZHHH"]
+    },
+    {
+      "name": "ZHHH SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZHHH"]
+    }
+  ]
+}

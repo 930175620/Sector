@@ -1,0 +1,13 @@
+"A" N044.31.00.228 E129.33.39.030 smrTaxiwayLabel
+"A" N044.30.53.473 E129.33.38.658 smrTaxiwayLabel
+"A" N044.32.03.801 E129.34.22.290 smrTaxiwayLabel
+"A" N044.31.31.650 E129.34.00.386 smrTaxiwayLabel
+"A" N044.32.07.917 E129.34.29.339 smrTaxiwayLabel
+"C" N044.31.19.683 E129.33.56.637 smrTaxiwayLabel
+"D" N044.31.04.806 E129.33.46.199 smrTaxiwayLabel
+"F" N044.32.05.584 E129.34.40.591 smrTaxiwayLabel
+
+"1" N044.32.07.270 E129.34.47.330 smrStandLabel
+"2" N044.32.03.430 E129.34.46.390 smrStandLabel
+"3" N044.32.01.940 E129.34.46.150 smrStandLabel
+"4" N044.32.00.490 E129.34.45.930 smrStandLabel

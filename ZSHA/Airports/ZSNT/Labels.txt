@@ -1,0 +1,49 @@
+"A" N032.03.55.895 E120.58.42.374 smrTaxiwayLabel
+"A" N032.03.40.624 E120.58.42.884 smrTaxiwayLabel
+"A" N032.04.08.902 E120.58.41.943 smrTaxiwayLabel
+"A" N032.04.15.382 E120.58.41.726 smrTaxiwayLabel
+"A" N032.04.50.902 E120.58.40.543 smrTaxiwayLabel
+"B" N032.03.31.776 E120.58.45.627 smrTaxiwayLabel
+"C" N032.03.48.127 E120.58.40.917 smrTaxiwayLabel
+"C" N032.03.48.082 E120.58.36.913 smrTaxiwayLabel
+"D" N032.04.04.002 E120.58.40.495 smrTaxiwayLabel
+"D" N032.04.03.915 E120.58.36.706 smrTaxiwayLabel
+"E" N032.04.11.788 E120.58.36.521 smrTaxiwayLabel
+"E" N032.04.11.864 E120.58.40.346 smrTaxiwayLabel
+"F" N032.04.20.112 E120.58.40.048 smrTaxiwayLabel
+"F" N032.04.20.328 E120.58.44.653 smrTaxiwayLabel
+"G" N032.04.49.016 E120.58.43.276 smrTaxiwayLabel
+"H" N032.05.21.554 E120.58.41.906 smrTaxiwayLabel
+"L" N032.03.54.718 E120.58.34.491 smrTaxiwayLabel
+"L" N032.04.08.755 E120.58.34.689 smrTaxiwayLabel
+"L" N032.04.15.353 E120.58.34.447 smrTaxiwayLabel
+"T" N032.04.08.716 E120.58.38.836 smrTaxiwayLabel
+"T" N032.03.55.056 E120.58.39.239 smrTaxiwayLabel
+"T" N032.04.15.341 E120.58.38.641 smrTaxiwayLabel
+
+"Under Construction" N032.04.10.400 E120.58.27.200 smrRemarkLabel
+"Yuantong Express Building" N032.04.01.400 E120.58.27.200 smrRemarkLabel
+"China Express Hangar" N032.03.42.900 E120.58.36.100 smrRemarkLabel
+
+"1" N032.04.21.900 E120.58.38.000 smrStandLabel
+"2" N032.04.23.400 E120.58.37.900 smrStandLabel
+"3" N032.04.24.800 E120.58.37.800 smrStandLabel
+"4" N032.04.26.200 E120.58.36.300 smrStandLabel
+"5" N032.04.27.700 E120.58.36.300 smrStandLabel
+"6" N032.04.29.200 E120.58.36.200 smrStandLabel
+"312" N032.04.06.000 E120.58.37.400 smrStandLabel
+"313" N032.04.07.400 E120.58.37.300 smrStandLabel
+"314" N032.04.09.000 E120.58.37.300 smrStandLabel
+"315" N032.04.10.400 E120.58.37.200 smrStandLabel
+"316" N032.04.13.300 E120.58.37.100 smrStandLabel
+"317" N032.04.14.700 E120.58.37.100 smrStandLabel
+"318" N032.04.16.300 E120.58.37.000 smrStandLabel
+"901" N032.03.49.900 E120.58.36.100 smrStandLabel
+"902" N032.03.51.600 E120.58.36.200 smrStandLabel
+"903" N032.03.53.100 E120.58.36.100 smrStandLabel
+"904" N032.03.54.600 E120.58.36.100 smrStandLabel
+"905" N032.03.56.100 E120.58.36.000 smrStandLabel
+"906" N032.03.57.500 E120.58.36.400 smrStandLabel
+"907" N032.03.58.900 E120.58.36.300 smrStandLabel
+"908" N032.04.00.300 E120.58.36.300 smrStandLabel
+"909" N032.04.01.600 E120.58.36.200 smrStandLabel

@@ -1,0 +1,7 @@
+#define smrZGSZSurface 1718852
+#define smrZGSZGrass 2386996
+#define smrZGSZBuilding 336709
+#define smrZGSZBackground 8421504
+#define smrZGSZTaxiwayLabel 9236991
+#define smrZGSZStandLabel 9236991
+#define smrZGSZRunway 0

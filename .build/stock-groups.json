@@ -1,0 +1,40 @@
+[
+  {
+    "tag": "smr-standard",
+    "aircraftData": "DataFiles\\ICAO_Aircraft.txt",
+    "airlinesData": "DataFiles\\ICAO_Airlines.txt",
+    "atisSetting": "ATIS\\AtisFiles.txt",
+    "tagSetting": "Settings\\Tag.txt",
+    "pluginSetting": "Settings\\Plugin.txt",
+    "generalSetting": "Settings\\SMRGeneral.txt",
+    "screenSetting": "Settings\\SMRScreen.txt",
+    "symbologySetting": "Settings\\SMRSymbology.txt",
+    "listSetting": "Settings\\SMRList.txt",
+    "profileSetting": "Settings\\SMRProfile.txt",
+    "pluginConfigs": [
+      {
+        "file": "Plugins\\Plugin.dll",
+        "displays": ["Ground Radar display", "Eurocat-X Radar Display"]
+      }
+    ]
+  },
+  {
+    "tag": "ecx-standard",
+    "aircraftData": "DataFiles\\ICAO_Aircraft.txt",
+    "airlinesData": "DataFiles\\ICAO_Airlines.txt",
+    "atisSetting": "ATIS\\AtisFiles.txt",
+    "tagSetting": "Settings\\Tag.txt",
+    "pluginSetting": "Settings\\Plugin.txt",
+    "generalSetting": "Settings\\ECXGeneral.txt",
+    "screenSetting": "Settings\\ECXScreen.txt",
+    "symbologySetting": "Settings\\ECXSymbology.txt",
+    "listSetting": "Settings\\ECXList.txt",
+    "profileSetting": "Settings\\ECXProfile.txt",
+    "pluginConfigs": [
+      {
+        "file": "Plugins\\Plugin.dll",
+        "displays": ["Ground Radar display", "Eurocat-X Radar Display"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+name: Sector CI
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  ci-job:
+    runs-on: ubuntu-18.04
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v1
+    - name: Build sectors
+      uses: VATPRC-Sector/sector-build-engine-action@master
+      with:
+        repo-username: ${{ secrets.username }}
+        repo-token: ${{ secrets.token }}
+        repo-tag: b1
+        build-args: ./ ${{ github.ref }} ${{ github.sha }} --release
+    - name: Upload release packages
+      uses: actions/upload-artifact@v1
+      with:
+        name: Release Packages
+        path: ./.build/artifact_release/

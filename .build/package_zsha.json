@@ -1,0 +1,108 @@
+{
+  "generalASRs": [
+    {
+      "template": "Eurocat-X ZSHA"
+    }
+  ],
+  "groundASRs": [
+    {
+      "template": "ZSSS",
+      "airport": "ZSSS"
+    },
+    {
+      "template": "ZSPD",
+      "airport": "ZSPD"
+    },
+    {
+      "template": "ZSNJ",
+      "airport": "ZSNJ"
+    },
+    {
+      "template": "ZSAM",
+      "airport": "ZSAM"
+    },
+    {
+      "template": "ZSHC",
+      "airport": "ZSHC"
+    },
+    {
+      "template": "ZSJN",
+      "airport": "ZSJN"
+    },
+    {
+      "template": "ZSNB",
+      "airport": "ZSNB"
+    },
+    {
+      "template": "ZSNT",
+      "airport": "ZSNT"
+    },
+    {
+      "template": "ZSQD",
+      "airport": "ZSQD"
+    }
+  ],
+  "profiles": [
+    {
+      "name": "Eurocat-X",
+      "stockGroup": "ecx-standard",
+      "asrs": [
+        "Eurocat-X ZSHA",
+        "ZSSS",
+        "ZSPD",
+        "ZSNJ",
+        "ZSAM",
+        "ZSHC",
+        "ZSJN",
+        "ZSNB",
+        "ZSNT",
+        "ZSQD"
+      ]
+    },
+    {
+      "name": "ZSSS SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZSSS"]
+    },
+    {
+      "name": "ZSPD SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZSPD"]
+    },
+    {
+      "name": "ZSNJ SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZSNJ"]
+    },
+    {
+      "name": "ZSAM SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZSAM"]
+    },
+    {
+      "name": "ZSHC SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZSHC"]
+    },
+    {
+      "name": "ZSJN SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZSJN"]
+    },
+    {
+      "name": "ZSNB SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZSNB"]
+    },
+    {
+      "name": "ZSNT SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZSNT"]
+    },
+    {
+      "name": "ZSQD SMR",
+      "stockGroup": "smr-standard",
+      "asrs": ["ZSQD"]
+    }
+  ]
+}
