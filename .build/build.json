@@ -2,61 +2,61 @@
   "packageInfos": [
     {
       "ident": "ZBPE",
-      "version": "2001",
+      "version": "2002",
       "packageName": "ZBPE FIR VATPRC",
       "packageConfig": "package_zbpe"
     },
     {
       "ident": "ZGZU",
-      "version": "2001",
+      "version": "2002",
       "packageName": "ZGZU FIR VATPRC",
       "packageConfig": "package_zgzu"
     },
     {
       "ident": "ZHWH",
-      "version": "2001",
+      "version": "2002",
       "packageName": "ZHWH FIR VATPRC",
       "packageConfig": "package_zhwh"
     },
     {
       "ident": "ZJSA",
-      "version": "2001",
+      "version": "2002",
       "packageName": "ZJSA FIR VATPRC",
       "packageConfig": "package_zjsa"
     },
     {
       "ident": "ZLHW",
-      "version": "2001",
+      "version": "2002",
       "packageName": "ZLHW FIR VATPRC",
       "packageConfig": "package_zlhw"
     },
     {
       "ident": "ZMUB",
-      "version": "2001",
+      "version": "2002",
       "packageName": "ZMUB FIR VATPRC",
       "packageConfig": "package_zmub"
     },
     {
       "ident": "ZPKM",
-      "version": "2001",
+      "version": "2002",
       "packageName": "ZPKM FIR VATPRC",
       "packageConfig": "package_zpkm"
     },
     {
       "ident": "ZSHA",
-      "version": "2001",
+      "version": "2002",
       "packageName": "ZSHA FIR VATPRC",
       "packageConfig": "package_zsha"
     },
     {
       "ident": "ZWUQ",
-      "version": "2001",
+      "version": "2002",
       "packageName": "ZWUQ FIR VATPRC",
       "packageConfig": "package_zwuq"
     },
     {
       "ident": "ZYSH",
-      "version": "2001",
+      "version": "2002",
       "packageName": "ZYSH FIR VATPRC",
       "packageConfig": "package_zysh"
     }
